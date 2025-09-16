@@ -120,7 +120,7 @@
         <mxCell id="kNZqJieOBsqwRZmquXIo-14" value="统一AI入口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="585" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kNZqJieOBsqwRZmquXIo-17" value="客户端" style="whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="kNZqJieOBsqwRZmquXIo-17" value="入口智能体" style="whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="170" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNZqJieOBsqwRZmquXIo-35" value="开发/运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
